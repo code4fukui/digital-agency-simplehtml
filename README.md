@@ -6,8 +6,8 @@
 
 ## 進捗
 
-- [x] ホーム
-- [x] 組織情報
+- [x] [ホーム](https://code4fukui.github.io/digital-agency-simplehtml/)
+- [x] [組織情報](https://code4fukui.github.io/digital-agency-simplehtml/about.html)
 - [ ] 政策
 - [ ] 法令
 - [ ] 採用
