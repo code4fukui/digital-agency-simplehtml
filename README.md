@@ -1,16 +1,17 @@
 # digital-agency-simplehtml
 
-デジタル庁のWebページ( https://www.digital.go.jp )を Textブラウザや音声ブラウザ などで利用可能な SimpleHTML に変換( https://code4fukui.github.io/digital-agency-simplehtml/ )しています。
+This project converts the website of the Digital Agency of Japan (https://www.digital.go.jp) to SimpleHTML, making it accessible to text browsers and screen readers.
 
-ぜひお手伝いください。
+## Demo
+The converted website is available at https://code4fukui.github.io/digital-agency-simplehtml/
 
-## 進捗
+## Features
+- Conversion of the Digital Agency website to SimpleHTML
+- Accessibility for text browsers and screen readers
+- Ongoing development, with several pages already converted
 
-- [x] [ホーム](https://code4fukui.github.io/digital-agency-simplehtml/)
-- [x] [組織情報](https://code4fukui.github.io/digital-agency-simplehtml/about.html)
-- [ ] 政策
-- [ ] 法令
-- [ ] 採用
-- [ ] 資料
-- [ ] 申請・届出
-- [ ] お知らせ
+## Usage
+To help with this project, please clone the [repository](https://github.com/code4fukui/digital-agency-simplehtml) and make a pull request.
+
+## License
+This project is not explicitly licensed.
