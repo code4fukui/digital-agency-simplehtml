@@ -1,5 +1,7 @@
 # digital-agency-simplehtml
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 This project converts the website of the Digital Agency of Japan (https://www.digital.go.jp) to SimpleHTML, making it accessible to text browsers and screen readers.
 
 ## Demo
